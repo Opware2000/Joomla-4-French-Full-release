@@ -27724,6 +27724,12 @@ body {
 .j-install-step-form {
   padding: 0.65rem 1.2rem;
 }
+.j-install-step-form .control-group {
+  margin-bottom: 0;
+}
+.j-install-step-form .control-group .control-label {
+  padding: 0;
+}
 
 .languageForm {
   padding: 0 0 30px;
